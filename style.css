@@ -1,0 +1,9 @@
+*{
+    background-color: whitesmoke;
+}
+.table table-hover{
+    color: aqua;
+    font-family: poppins, sans-serif;
+    font-size: 5px;
+    padding: 20px, 20px;
+}
